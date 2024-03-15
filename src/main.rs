@@ -64,7 +64,7 @@ fn main() {
     println!("If you hold S, then these keys are remapped J -> B, K -> N, L -> M");
     println!("If you hold ;, then these keys are remapped A -> Q, S -> W, D -> E, F -> R, G -> T");
     println!("If you hold L, then these keys are remapped A -> Z, S -> X, D -> C, F -> V");
-    println!("EXAMPLE: H, ;+D, L, L, A+O       PRINTS: HELLO");
+    println!("EXAMPLE: H, ;+D, L, L, A+L       PRINTS: HELLO");
     println!("Backspace and Space work as usual. No shift/caps");
 
     'main: loop {

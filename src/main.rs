@@ -29,9 +29,9 @@ fn generate_mapping() -> HashMap<Keycode, HashMap<Keycode,Keycode>> {
     third_mapping.insert(Keycode::F, Keycode::V);
     
     let mut fourth_mapping = HashMap::new();
-    fourth_mapping.insert(Keycode::J, Keycode::B);
-    fourth_mapping.insert(Keycode::K, Keycode::N);
-    fourth_mapping.insert(Keycode::L, Keycode::M);
+    fourth_mapping.insert(Keycode::H, Keycode::B);
+    fourth_mapping.insert(Keycode::J, Keycode::N);
+    fourth_mapping.insert(Keycode::K, Keycode::M);
 
     let mut keycode_map = HashMap::new();
     keycode_map.insert(Keycode::A, first_mapping);

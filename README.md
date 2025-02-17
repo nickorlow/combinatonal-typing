@@ -15,7 +15,7 @@ L, release A`, then O will be typed. The full list of remappings are:
     If you hold S, then these keys are remapped J -> B, K -> N, L -> M
     If you hold ;, then these keys are remapped A -> Q, S -> W, D -> E, F -> R, G -> T
     If you hold L, then these keys are remapped A -> Z, S -> X, D -> C, F -> V
-    EXAMPLE: H, ;+D, L, L, A+O       PRINTS: HELLO
+    EXAMPLE: H, ;+D, L, L, A+L       PRINTS: HELLO
 ```
 
 Backspace and Space work as usual. No other keys work.
